@@ -1,0 +1,16 @@
+# Rust-related files and directories
+target/
+**/*.rs.bk
+
+
+cargo.lock
+
+coverage/
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+.DS_Store
